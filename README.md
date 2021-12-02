@@ -1,5 +1,3 @@
 # SEMAFOR
 arduino projekat
-Luka Djordjevic
-izmena 1
-vule
+Luka 123213154
